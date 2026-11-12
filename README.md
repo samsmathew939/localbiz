@@ -1,6 +1,6 @@
 # 📈 LocalBiz — local-business survival-risk predictor
 
-**Live demo:** _(deploying — link goes here)_
+🔗 **Live demo:** https://localbiz.streamlit.app/
 
 Pick a **business type** and **place**, and LocalBiz gives it a survival-risk read
 (🟢 lower / 🟡 medium / 🔴 higher) from patterns in **150,000+ real businesses** in
