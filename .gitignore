@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.playwright-cli/
+.streamlit/secrets.toml
+RESUME_STATE.md
+# raw Yelp dataset — huge + licensed, never commit
+data/*.json
+data/*.zip
+data/*.tgz
+data/*.tar
+data/*.gz

@@ -1,0 +1,173 @@
+{
+  "categories": [
+    "Active Life",
+    "American (New)",
+    "American (Traditional)",
+    "Arts & Entertainment",
+    "Auto Repair",
+    "Automotive",
+    "Bakeries",
+    "Bars",
+    "Beauty & Spas",
+    "Breakfast & Brunch",
+    "Burgers",
+    "Chinese",
+    "Coffee & Tea",
+    "Doctors",
+    "Event Planning & Services",
+    "Fashion",
+    "Fast Food",
+    "Fitness & Instruction",
+    "Food",
+    "Grocery",
+    "Hair Salons",
+    "Health & Medical",
+    "Home & Garden",
+    "Home Services",
+    "Hotels",
+    "Hotels & Travel",
+    "Ice Cream & Frozen Yogurt",
+    "Italian",
+    "Local Services",
+    "Mexican",
+    "Nail Salons",
+    "Nightlife",
+    "Pets",
+    "Pizza",
+    "Real Estate",
+    "Restaurants",
+    "Sandwiches",
+    "Seafood",
+    "Shopping",
+    "Specialty Food"
+  ],
+  "cities": [
+    "Boise",
+    "Brandon",
+    "Brentwood",
+    "Carmel",
+    "Cherry Hill",
+    "Clearwater",
+    "Doylestown",
+    "Dunedin",
+    "Edmonton",
+    "Fishers",
+    "Franklin",
+    "Goleta",
+    "Greenwood",
+    "Hendersonville",
+    "Indianapolis",
+    "Kenner",
+    "King of Prussia",
+    "Largo",
+    "Lutz",
+    "Meridian",
+    "Metairie",
+    "Nashville",
+    "New Orleans",
+    "New Port Richey",
+    "Palm Harbor",
+    "Philadelphia",
+    "Pinellas Park",
+    "Reno",
+    "Riverview",
+    "Saint Louis",
+    "Saint Petersburg",
+    "Santa Barbara",
+    "Sparks",
+    "St. Louis",
+    "St. Petersburg",
+    "Tampa",
+    "Tucson",
+    "Wesley Chapel",
+    "West Chester",
+    "Wilmington"
+  ],
+  "states": [
+    "AB",
+    "AZ",
+    "CA",
+    "CO",
+    "DE",
+    "FL",
+    "HI",
+    "ID",
+    "IL",
+    "IN",
+    "LA",
+    "MA",
+    "MI",
+    "MO",
+    "MT",
+    "NC",
+    "NJ",
+    "NV",
+    "PA",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VI",
+    "VT",
+    "WA",
+    "XMS"
+  ],
+  "open_rate": 0.7961,
+  "n_rows": 150243,
+  "metrics": {
+    "test_accuracy": 0.7976,
+    "test_auc": 0.6785,
+    "baseline_accuracy": 0.7961
+  },
+  "top_factors": [
+    [
+      "review_count",
+      0.2543
+    ],
+    [
+      "stars",
+      0.1741
+    ],
+    [
+      "category_Restaurants",
+      0.1425
+    ],
+    [
+      "city_Philadelphia",
+      0.0338
+    ],
+    [
+      "category_American (New)",
+      0.0324
+    ],
+    [
+      "category_Other",
+      0.0294
+    ],
+    [
+      "category_Home Services",
+      0.0268
+    ],
+    [
+      "category_Italian",
+      0.0248
+    ],
+    [
+      "category_Health & Medical",
+      0.0225
+    ],
+    [
+      "city_Other",
+      0.0215
+    ],
+    [
+      "category_Automotive",
+      0.0183
+    ],
+    [
+      "category_American (Traditional)",
+      0.0173
+    ]
+  ],
+  "trained_at": "2026-11-11"
+}
