@@ -1,7 +1,7 @@
 """LocalBiz — predict whether a local business is likely open or closed.
 
-Prediction pillar of the 3-project AI portfolio. Reuses the EcoSort/BiasCure
-Streamlit skeleton. The model is trained by train.py on the Yelp Open Dataset.
+A quick, honest closure-risk read for a storefront or small-business idea.
+The model is trained by train.py on the Yelp Open Dataset.
 """
 import json
 import pathlib

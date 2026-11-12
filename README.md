@@ -4,8 +4,9 @@
 
 Pick a **business type** and **place**, and LocalBiz gives it a survival-risk read
 (🟢 lower / 🟡 medium / 🔴 higher) from patterns in **150,000+ real businesses** in
-the [Yelp Open Dataset](https://www.yelp.com/dataset). Project 3 of a 3-app AI
-portfolio — the **Prediction** pillar (machine learning on messy real data).
+the [Yelp Open Dataset](https://www.yelp.com/dataset). Built to give anyone sizing up
+a storefront or small-business idea a quick, honest read on closure risk — before
+signing a lease or sinking money in.
 
 ## What it does
 
